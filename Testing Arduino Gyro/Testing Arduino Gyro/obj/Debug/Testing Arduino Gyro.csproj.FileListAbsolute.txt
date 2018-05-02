@@ -1,0 +1,20 @@
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.exe.config
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.exe
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.pdb
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csprojResolveAssemblyReference.cache
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\obj\Debug\Testing_Arduino_Gyro.Form1.resources
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\obj\Debug\Testing_Arduino_Gyro.Properties.Resources.resources
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csproj.GenerateResource.cache
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csproj.CoreCompileInputs.cache
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.exe
+C:\Users\Arnym\AppData\Local\Temporary Projects\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.pdb
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.exe.config
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.exe
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.pdb
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csprojResolveAssemblyReference.cache
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing_Arduino_Gyro.Form1.resources
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing_Arduino_Gyro.Properties.Resources.resources
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csproj.GenerateResource.cache
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csproj.CoreCompileInputs.cache
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.exe
+C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.pdb
