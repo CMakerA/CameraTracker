@@ -18,3 +18,17 @@ C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\
 C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csproj.CoreCompileInputs.cache
 C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.exe
 C:\Users\Arnym\source\repos\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.pdb
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.exe.config
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.exe.manifest
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.application
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.exe
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\bin\Debug\Testing Arduino Gyro.pdb
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csprojResolveAssemblyReference.cache
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing_Arduino_Gyro.Form1.resources
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing_Arduino_Gyro.Properties.Resources.resources
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csproj.GenerateResource.cache
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.csproj.CoreCompileInputs.cache
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.exe.manifest
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.application
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.exe
+C:\Users\Arnym\Documents\GitHub\CameraTracker\Testing Arduino Gyro\Testing Arduino Gyro\obj\Debug\Testing Arduino Gyro.pdb
